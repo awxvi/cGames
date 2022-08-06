@@ -11,8 +11,6 @@ int main( void ) {
     string inpt = "";
     cin >> inpt;
 
-    srand( time( NULL ) );
-
     if ( inpt == "gList" ) { cout << "Games: 21, "; };
     if ( inpt == "21" ) { playTwentyOne(); };
 
