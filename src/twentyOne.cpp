@@ -7,6 +7,8 @@
 
 #include "shared.hpp"
 
+// Credit for function "getRandomNumber" goes to geeksforgeeks.
+
 int getRandomNumber( int lower, int upper ) {
    
     srand( time( NULL ) );
