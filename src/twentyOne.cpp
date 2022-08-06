@@ -9,6 +9,7 @@
 
 int getRandomNumber( int lower, int upper ) {
    
+    srand( time( NULL ) );
     int i;
     int num = (rand() % (upper - lower + 1)) + lower;
     return num;

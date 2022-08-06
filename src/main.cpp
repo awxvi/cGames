@@ -2,9 +2,6 @@
 
 #include <string.h>
 
-#include <time.h>
-#include <random>
-
 #include "shared.hpp"
 
 int main( void ) {
