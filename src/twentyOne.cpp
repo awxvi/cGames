@@ -7,7 +7,7 @@
 
 #include "shared.hpp"
 
-// Credit for function "getRandomNumber" goes to geeksforgeeks.
+// Credit for function the "getRandomNumber" goes to geeksforgeeks.
 
 int getRandomNumber( int lower, int upper ) {
    
